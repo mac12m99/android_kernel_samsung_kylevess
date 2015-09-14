@@ -18,7 +18,7 @@
 ENTRY(memset)
 	ands	r3, r0, #3		@ 1 unaligned?
 	mov	ip, r0			@ preserve r0 as return value
-	bne	6f			@ 1	@ 1
+	bne	6f			@ 1
 /*
  * we know that the pointer in ip is aligned to a word boundary.
  */
@@ -70,7 +70,7 @@ ENTRY(memset)
 	mov	lr, r1
 
 	cmp	r2, #96
-	tstgt	r0, #31
+	tstgt	ip, #31
 	ble	3f
 
 	and	r8, ip, #31
@@ -119,4 +119,5 @@ ENTRY(memset)
 	strleb	r1, [ip], #1		@ 1
 	strb	r1, [ip], #1		@ 1
 	add	r2, r2, r3		@ 1 (r2 = r2 - (4 - r3))
+	b	1b
 ENDPROC(memset)
