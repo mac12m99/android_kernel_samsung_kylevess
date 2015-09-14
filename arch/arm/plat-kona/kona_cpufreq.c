@@ -384,6 +384,10 @@ static int kona_cpufreq_init(struct cpufreq_policy *policy)
 	}
 #endif
 
+	/* Disable OC by default */
+	policy->max = 1000000;
+
+
 	return 0;
 
       err_cpufreqs_table:
