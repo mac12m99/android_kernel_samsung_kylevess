@@ -1,0 +1,5 @@
+kernel/arch/arm/plat-kona/chal/chal_dsi.ko
+kernel/arch/arm/plat-kona/chal/chal_smi.ko
+kernel/arch/arm/plat-kona/chal/chal_dma_vc4lite.ko
+kernel/arch/arm/plat-kona/chal/chal_tectl_vc4lite.ko
+kernel/arch/arm/plat-kona/chal/chal_spi_vc4lite.ko

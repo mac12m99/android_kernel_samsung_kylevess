@@ -1,0 +1,9 @@
+kernel/drivers/char/broadcom/fuse_log/bcmlog.ko
+kernel/drivers/char/broadcom/fuse_log/bcmmtt.ko
+kernel/drivers/char/broadcom/fuse_log/fifo.ko
+kernel/drivers/char/broadcom/fuse_log/output.ko
+kernel/drivers/char/broadcom/fuse_log/config.ko
+kernel/drivers/char/broadcom/h264/h264-driver.ko
+kernel/drivers/char/broadcom/isp/isp-driver.ko
+kernel/drivers/char/broadcom/mmdma/mmdma.ko
+kernel/drivers/char/broadcom/vce/vce-driver.ko

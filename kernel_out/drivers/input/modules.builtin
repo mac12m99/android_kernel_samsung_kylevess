@@ -1,0 +1,15 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/ff-memless.ko
+kernel/drivers/input/mousedev.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/misc/keychord.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/misc/kona_headset_multi_button.ko
+kernel/drivers/input/mouse/psmouse.ko
+kernel/drivers/input/touchscreen/ist30xx_update.ko
+kernel/drivers/input/touchscreen/ist30xx.ko
+kernel/drivers/input/touchscreen/ist30xx_misc.ko
+kernel/drivers/input/touchscreen/ist30xx_sys.ko
+kernel/drivers/input/touchscreen/ist30xx_factory.ko
+kernel/drivers/input/touchscreen/ist30xx_tracking.ko

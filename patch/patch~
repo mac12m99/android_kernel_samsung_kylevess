@@ -1,0 +1,23 @@
+#!/bin/bash
+cd ..
+patch -p1 < patch/patch-3.4.81-82
+patch -p1 < patch/patch-3.4.82-83
+patch -p1 < patch/patch-3.4.83-84
+patch -p1 < patch/patch-3.4.84-85
+patch -p1 < patch/patch-3.4.85-86
+patch -p1 < patch/patch-3.4.86-87
+patch -p1 < patch/patch-3.4.87-88
+patch -p1 < patch/patch-3.4.88-89
+patch -p1 < patch/patch-3.4.8-9
+patch -p1 < patch/patch-3.4.89-90
+patch -p1 < patch/patch-3.4.90-91
+patch -p1 < patch/patch-3.4.9-10
+patch -p1 < patch/patch-3.4.91-92
+patch -p1 < patch/patch-3.4.92-93
+patch -p1 < patch/patch-3.4.93-94
+patch -p1 < patch/patch-3.4.94-95
+patch -p1 < patch/patch-3.4.95-96
+patch -p1 < patch/patch-3.4.96-97
+patch -p1 < patch/patch-3.4.97-98
+patch -p1 < patch/patch-3.4.98-99
+patch -p1 < patch/patch-3.4.99-100

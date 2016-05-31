@@ -1,0 +1,6 @@
+kernel/drivers/input/touchscreen/ist30xx_update.ko
+kernel/drivers/input/touchscreen/ist30xx.ko
+kernel/drivers/input/touchscreen/ist30xx_misc.ko
+kernel/drivers/input/touchscreen/ist30xx_sys.ko
+kernel/drivers/input/touchscreen/ist30xx_factory.ko
+kernel/drivers/input/touchscreen/ist30xx_tracking.ko

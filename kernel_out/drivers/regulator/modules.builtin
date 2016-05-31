@@ -1,0 +1,2 @@
+kernel/drivers/regulator/virtual.ko
+kernel/drivers/regulator/userspace-consumer.ko

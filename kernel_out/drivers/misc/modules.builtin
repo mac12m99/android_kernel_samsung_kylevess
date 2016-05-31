@@ -1,0 +1,5 @@
+kernel/drivers/misc/rt8973.ko
+kernel/drivers/misc/rt8973.ko
+kernel/drivers/misc/bcmpmu59xxx_audio.ko
+kernel/drivers/misc/bmc150/bma2x2_driver.ko
+kernel/drivers/misc/bmc150/bst_sensor_common.ko

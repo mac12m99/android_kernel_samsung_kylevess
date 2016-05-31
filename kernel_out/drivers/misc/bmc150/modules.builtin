@@ -1,0 +1,2 @@
+kernel/drivers/misc/bmc150/bma2x2_driver.ko
+kernel/drivers/misc/bmc150/bst_sensor_common.ko

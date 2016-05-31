@@ -1,0 +1,5 @@
+kernel/drivers/video/broadcom/kona_fb.ko
+kernel/drivers/video/broadcom/axipv/axipv.ko
+kernel/drivers/video/broadcom/lcd/lcd_clock.ko
+kernel/drivers/video/broadcom/lcd/hx8369_dsi.ko
+kernel/drivers/video/broadcom/pv/pv.ko

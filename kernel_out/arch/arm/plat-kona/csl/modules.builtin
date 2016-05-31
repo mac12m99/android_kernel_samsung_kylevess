@@ -1,0 +1,5 @@
+kernel/arch/arm/plat-kona/csl/csl_dsi.ko
+kernel/arch/arm/plat-kona/csl/csl_smi.ko
+kernel/arch/arm/plat-kona/csl/csl_dma_vc4lite.ko
+kernel/arch/arm/plat-kona/csl/csl_tectl_vc4lite.ko
+kernel/arch/arm/plat-kona/csl/mmdma_drv.ko

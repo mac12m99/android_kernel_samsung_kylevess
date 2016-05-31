@@ -1,0 +1,2 @@
+kernel/arch/arm/mach-hawaii/dev-muic_rt8973.ko
+kernel/arch/arm/mach-hawaii/dev-tsp_bt432.ko

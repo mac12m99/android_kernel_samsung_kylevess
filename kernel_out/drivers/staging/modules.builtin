@@ -1,0 +1,5 @@
+kernel/drivers/staging/android/logger.ko
+kernel/drivers/staging/iio/industrialio.ko
+kernel/drivers/staging/iio/kfifo_buf.ko
+kernel/drivers/staging/zram/zram.ko
+kernel/drivers/staging/zsmalloc/zsmalloc.ko

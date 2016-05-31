@@ -1,0 +1,13 @@
+kernel/drivers/video/fb.ko
+kernel/drivers/video/cfbfillrect.ko
+kernel/drivers/video/cfbcopyarea.ko
+kernel/drivers/video/cfbimgblt.ko
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/backlight/generic_bl.ko
+kernel/drivers/video/backlight/tps61158_pwm_bl.ko
+kernel/drivers/video/broadcom/kona_fb.ko
+kernel/drivers/video/broadcom/axipv/axipv.ko
+kernel/drivers/video/broadcom/lcd/lcd_clock.ko
+kernel/drivers/video/broadcom/lcd/hx8369_dsi.ko
+kernel/drivers/video/broadcom/pv/pv.ko
