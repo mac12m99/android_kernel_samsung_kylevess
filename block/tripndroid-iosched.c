@@ -258,4 +258,4 @@ module_exit(tripndroid_exit);
 
 MODULE_AUTHOR("TripNRaVeR");
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("TripNDroid IO Scheduler");﻿
+MODULE_DESCRIPTION("TripNDroid IO Scheduler");
